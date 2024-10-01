@@ -2,7 +2,7 @@
 
 ![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Hi there! 👋 I'm **Prabhnoor Singh**, a Software Developer with a passion for building and testing scalable web applications, optimizing cloud infrastructure, and implementing secure and efficient systems. Welcome to my GitHub profile!
+Hi there! 👋 I'm **Prabhnoor Singh**, a Software Developer with a passion for building and testing scalable web applications, optimizing cloud infrastructure, and implementing efficient systems. Welcome to my GitHub profile!
 
 ---
 
@@ -24,9 +24,9 @@ Hi there! 👋 I'm **Prabhnoor Singh**, a Software Developer with a passion for 
 
 ## 🚀 What I'm Currently Working On
 
-- **🌐 Interning at BlackBerry** as a Software Developer, enhancing automated testing frameworks and reducing cost overheads.
-- **⚙️ Developing** a project with a React.js front-end and a Python back-end.
-- **☁️ Exploring AWS cloud architecture**, working on automating CI/CD pipelines and improving cloud security.
+- **🌐 Interning at BlackBerry** as a Software Developer, building and debugging custom libraries for reducing cost overheads.
+- **⚙️ Solving Problems** on hackerrank and leetcode.
+- **☁️ Exploring AWS cloud architecture**, completed 2 AWS certifications and working towards the third.
 
 ---
 
