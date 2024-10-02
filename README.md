@@ -73,9 +73,13 @@ When I'm not coding, in this phase of my career, you’ll find me applying to ne
 ---
 
 ## 📫 Let's Connect
-- [Portfolio](https://prabhnosingh.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/prabh-noor-singh/)
-- [GitHub](https://github.com/prabhnosingh/)
-- [Email](mailto:prabhnoorsingh23000@gmail.com)
+
+- [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-1E90FF?style=flat-square)](https://prabhnosingh.github.io/)
+- [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:prabhnoorsingh23000@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prabh-noor-singh/)
+
+
+
+
 
 Thanks for stopping by! 😊 Feel free to reach out to chat about tech, collaboration, or anything in between!
