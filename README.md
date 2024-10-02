@@ -6,25 +6,57 @@ Hi there! 👋 I'm **Prabhnoor Singh**, a Software Developer with a passion for 
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Tools Breakdown
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/Code-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197" />
-  <img src="https://img.shields.io/badge/CI/CD-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197" />
-</p>
+### Frontend
+- **React.js**
+- **HTML5/CSS3**
+- **JavaScript**
+
+### Backend
+- **Node.js**
+- **Python**
+- **Java**
+- **C/C++**
+- **Groovy**
+- **.NET (C#)**
+
+### Frameworks
+- **Spring Boot**
+- **Spring Test**
+- **Django**
+- **FastAPI**
+- **Express.js**
+- **MVC Architecture**
+
+### Testing & Automation
+- **Selenium**
+- **JUnit**
+- **NUnit**
+- **SoapUI**
+- **ReadyAPI**
+- **Test Automation**
+- **Appium**
+
+### Databases
+- **PostgreSQL**
+- **MySQL**
+- **SQLite**
+- **MongoDB**
+
+### CI/CD & DevOps
+- **Jenkins**
+- **Docker**
+
+### API Development & Integration
+- **RESTful APIs**
+- **Web Scraping (Python)**
 
 ---
 
 ## 🚀 What I'm Currently Working On
 
-- **🌐 Interning at BlackBerry** as a Software Developer, building and debugging custom libraries for reducing cost overheads.
+- **🌐 Interning at BlackBerry** as a Software tools Developer, building and debugging custom libraries for reducing cost overheads.
 - **⚙️ Solving Problems** on hackerrank and leetcode.
 - **☁️ Exploring AWS cloud architecture**, completed 2 AWS certifications and working towards the third.
 
@@ -32,25 +64,11 @@ Hi there! 👋 I'm **Prabhnoor Singh**, a Software Developer with a passion for 
 
 
 
-## 🛠️ Skills & Tools Breakdown
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" width="40" height="40" alt="AWS" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" width="40" height="40" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" width="40" height="40" alt="Jenkins" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" width="40" height="40" alt="Django" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" width="40" height="40" alt="PostgreSQL" />
-</p>
-
----
-
 ## 🎯 Fun Fact
 
 ![Coding Fun](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-When I'm not coding, in this phase of my career you’ll find me applying to new job openings. So, if you have something that will redeem me from applying jobs and get me back to coding, ping me!!
+When I'm not coding, in this phase of my career, you’ll find me applying to new job openings. So, if you have something that will redeem me from applying jobs and get me back to coding, ping me!!
 
 ---
 
