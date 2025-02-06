@@ -41,6 +41,7 @@ Hi there! 👋 I'm **Prabhnoor Singh**, a Software Developer with a passion for 
 
 ![Coding Fun](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
+I recently joined RBC as an SDET! Looking forward to learning more and implementing a lot.
 <!-- When I'm not coding, in this phase of my career, you’ll find me applying to new job openings. So, if you have something that will redeem me from applying jobs and get me back to coding, ping me!! -->
 
 
