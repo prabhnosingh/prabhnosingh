@@ -33,7 +33,7 @@ Hi there! 👋 I'm **Prabhnoor Singh**, a Software Developer with a passion for 
 <!-- - **🌐 Interning at BlackBerry** as a Software tools Developer, building and debugging custom libraries for reducing cost overheads. -->
 - **🌐 I recently joined RBC as an SDET!** Looking forward to learning more and implementing a lot.
 - **☁️ Exploring AWS cloud architecture**, completed 2 AWS certifications and working towards the third.
-- **⚙️ Finding and working towards solving real-world problems** 
+- **⚙️ Finding and working towards solving real-world problems.** 
 ---
 
 
