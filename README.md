@@ -2,7 +2,7 @@
 
 ![Header](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-Hi there! 👋 I'm **Prabhnoor Singh**, a Software Developer with a passion for building and testing scalable web applications, optimizing cloud infrastructure, and implementing efficient systems. Welcome to my GitHub profile!
+Hi there! 👋 I'm **Prabhnoor Singh**, a Software Developer with a passion for building and testing scalable applications, optimizing cloud infrastructure, and implementing efficient systems. Welcome to my GitHub profile!
 
 ---
 
