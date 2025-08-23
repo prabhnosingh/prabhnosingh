@@ -31,7 +31,7 @@ Hi there! 👋 I'm **Prabhnoor Singh**, a Software Developer with a passion for 
 ## 🚀 What I'm Currently Working On
 ![Coding Fun](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 <!-- - **🌐 Interning at BlackBerry** as a Software tools Developer, building and debugging custom libraries for reducing cost overheads. -->
-- **🌐 I recently joined RBC as an SDET!** Looking forward to learning more and implementing a lot.
+- **🌐 I recently joined RBC as an SDE!** Looking forward to learning more and implementing a lot.
 - ☁️ Solving DSA problems on LeetCode and Hackerrank.
 - **⚙️ Finding and working towards solving real-world problems.** 
 ---
