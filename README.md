@@ -50,7 +50,7 @@ Hi there! 👋 I'm **Prabhnoor Singh**, a Software Developer with a passion for 
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-1E90FF?style=flat-square)](https://prabhnosingh.github.io/) [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:prabhnoorsingh23000@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prabhnosingh/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-1E90FF?style=flat-square)](https://prabhnosingh.github.io/) [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:prabhnosingh@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prabhnosingh/)
 
 
 
